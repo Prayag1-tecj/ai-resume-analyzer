@@ -16,6 +16,6 @@ urlpatterns = [
          name='profile'
     ),
     
-    path("test-users/", TestUsersView.as_view())
+    
 
 ]
