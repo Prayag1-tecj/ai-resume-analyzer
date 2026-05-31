@@ -6,11 +6,8 @@ An AI-powered Resume Analysis Platform that evaluates resumes, provides actionab
 
 ## 🌐 Live Demo
 
-### Frontend
-https://your-vercel-url.vercel.app
+[Ai-Resume-Analyzer](https://ai-resume-analyzer-mu-weld.vercel.app/)
 
-### Backend API
-https://your-render-url.onrender.com
 
 ---
 
