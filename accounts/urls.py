@@ -11,9 +11,11 @@ urlpatterns = [
     ),
 
     path(
-    'profile/',
-    ProfileView.as_view(),
-    name='profile'
+        'profile/',
+         ProfileView.as_view(),
+         name='profile'
     ),
+    
+    path("test-users/", TestUsersView.as_view())
 
 ]
